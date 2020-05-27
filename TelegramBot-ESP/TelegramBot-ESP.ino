@@ -1,10 +1,3 @@
-/*******************************************************************
-*  An example of bot that echos back any messages received         *
-*                                                                  *
-*  written by Giacarlo Bacchio (Gianbacchio on Github)             *
-*  adapted by Brian Lough                                          *
-*******************************************************************/
-
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
